@@ -40,6 +40,7 @@ My research interest includes machine translation, large language models and low
 - *2025.01*: 🎉 Our paper has been accepted by 
 - *2024.12*: 🎉 Our paper has been accepted by COLING 2025
 - *2024.09*: 🎉 Our paper has been accepted by CCMT 2024
+- *2024.08*: 🎉 Our paper has been accepted by NLPCC 2024
 - *2023.07*: 🎉 Our paper has been accepted by TALLIP
 
  
