@@ -18,31 +18,37 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am studying for a PhD at the University of Chinese Academy of Sciences.
-I'm currently working on large model low-resource language power enhancement, low-resource language machine translation, and zero-shot learning. If you are seeking any form of academic cooperation, please feel free to email me: lukaiwen20@mails.ucas.ac.cn
-I graduated from Xinjiang University with a bachelor's degree and am currently studying for a PhD at the <a href="https://www.ucas.edu.cn/" University of Chinese Academy of Sciences (中国科学院大学)>, advised by Yating Yang (杨雅婷).
- <a href='https://scholar.google.com/citations?user=pfroRUEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
+I am studying for a doctorate at the University of the Chinese Academy of Sciences.
+I am currently working on large model low-resource language power enhancement, low-resource language machine translation, and zero-shot learning. If you are seeking any form of academic cooperation, please feel free to email me: lukaiwen20@mails.ucas.ac.cn
+I graduated from Xinjiang University with a bachelor's degree and am currently studying for a PhD at the <a href="https://www.ucas.edu.cn/">University of Chinese Academy of Sciences (中国科学院大学)</a>, advised by <a href="https://people.ucas.edu.cn/~yangyating">Yating Yang (杨雅婷)</a>.
+My research interest includes machine translation, large language models and low-resource language processing. I have published several papers at the top international AI conferences and periodical such as COLING, NAACL and TALLIP.
+ <a href='https://scholar.google.com/citations?user=pfroRUEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+# 🎓 Educations
+- *2016.09 - 2020.6*, <a href="https://www.xju.edu.cn/"><img class="jpg" src="/images/XJU.jpg" width="23pt"></a> Xinjiang University, Bachelor.
+- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/"><img class="png" src="/images/UCAS.png" width="23pt"></a> University of Chinese Academy of Sciences, Ph.D. Candidate.
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+
+<span class='anchor' id='-xll'></span>
+
+# 🔥 News
+- *2025.01*: 🎉 Our paper has been accepted by 
+- *2024.12*: 🎉 Our paper has been accepted by COLING 2025
+- *2024.09*: 🎉 Our paper has been accepted by CCMT 2024
+- *2023.07*: 🎉 Our paper has been accepted by TALLIP
+
+ 
+<span class='anchor' id='-lwzll'></span>
+
+
+
+
+# 📝 Publications
 
 ### 英文
 ---
