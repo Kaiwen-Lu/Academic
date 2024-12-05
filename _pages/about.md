@@ -48,8 +48,8 @@ My research interest includes machine translation, large language models and low
 
 
 
-
-# 📝 Publications
+<h1 id="-publications">📝 Publications</h1>
+<!-- # 📝 Publications -->
 <h2 id="-speech-synthesis">🎙 Speech Synthesis</h2>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="images/fs.png" alt="sym" width="100%"></div></div>
