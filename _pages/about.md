@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am studying for a doctorate at the University of the Chinese Academy of Sciences.
-I am currently working on large model low-resource language power enhancement, low-resource language machine translation, and zero-shot learning. If you are seeking any form of academic cooperation, please feel free to email me: lukaiwen20@mails.ucas.ac.cn
-I graduated from Xinjiang University with a bachelor's degree and am currently studying for a PhD at the <a href="https://www.ucas.edu.cn/">University of Chinese Academy of Sciences (中国科学院大学)</a>, advised by <a href="https://people.ucas.edu.cn/~yangyating">Yating Yang (杨雅婷)</a>.
-My research interest includes machine translation, large language models and low-resource language processing. I have published several papers at the top international AI conferences and periodical such as COLING, NAACL and TALLIP.
+I am studying for a doctorate at the University of the Chinese Academy of Sciences. <br/>
+I am currently working on large model low-resource language power enhancement, low-resource language machine translation, and zero-shot learning. If you are seeking any form of academic cooperation, please feel free to email me: lukaiwen20@mails.ucas.ac.cn <br/>
+I graduated from Xinjiang University with a bachelor's degree and am currently studying for a PhD at the <a href="https://www.ucas.edu.cn/">University of Chinese Academy of Sciences (中国科学院大学)</a>, advised by <a href="https://people.ucas.edu.cn/~yangyating">Yating Yang (杨雅婷)</a>.<br/>
+My research interest includes machine translation, large language models and low-resource language processing. I have published several papers at the top international AI conferences and periodical such as COLING, NAACL and TALLIP.<br/>
  <a href='https://scholar.google.com/citations?user=pfroRUEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 
 
 
