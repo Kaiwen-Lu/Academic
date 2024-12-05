@@ -52,7 +52,7 @@ My research interest includes machine translation, large language models and low
 <!-- # 📝 Publications -->
 <h2 id="-speech-synthesis">🎙 Speech Synthesis</h2>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img class="svg" src="/images/CONLIG.svg" width="100%" alt="sym"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="/images/CONLIG.svg" width="100%" alt="sym"></div></div>
 <div class="paper-box-text">
 
   <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">FastSpeech: Fast, Robust and Controllable Text to Speech</a> <br>
