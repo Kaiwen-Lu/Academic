@@ -28,10 +28,9 @@ My research interest includes machine translation, large language models and low
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2016.09 - 2020.06*,  <a href="https://www.xju.edu.cn/"><img class="png" src="/images/xju32.png" width="15pt"></a> Xinjiang University, Bachelor.
-- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/"><img class="png" src="/images/ucas32.png" width="15pt"></a>University of Chinese Academy of Sciences, Ph.D. Candidate.
- 
-<span class='anchor' id='-lwzl'></span>
+- *2016.09 - 2020.06*,  <a href="https://www.xju.edu.cn/">Xinjiang University</a>, Bachelor.
+- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/">University of Chinese Academy of Sciences</a>, Ph.D. Candidate.
+
 
 
 <span class='anchor' id='-xll'></span>
@@ -45,9 +44,6 @@ My research interest includes machine translation, large language models and low
 
  
 <span class='anchor' id='-lwzll'></span>
-
-
-
 <h1 id="-publications">📝 Publications</h1>
 <!-- # 📝 Publications -->
 <!-- <h2 id="-speech-synthesis">🎙 Speech Synthesis</h2> -->
@@ -131,7 +127,6 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 - *2022.08.06*, The 18th China Conference on Machine Translation, Lhasa, China，Technical Director for Evaluation Task
 
 <span class='anchor' id='-gzsx'></span>
-
 # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
