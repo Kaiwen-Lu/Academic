@@ -113,7 +113,7 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Awards
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖`
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
@@ -127,7 +127,7 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 - *2022.08.06*, The 18th China Conference on Machine Translation, Lhasa, China，Technical Director for Evaluation Task
 
 <span class='anchor' id='-gzsx'></span>
-# 💻 工作实习
+# 💻 Others
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
