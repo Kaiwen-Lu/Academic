@@ -127,7 +127,7 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 - *2022.08.06*, The 18th China Conference on Machine Translation, Lhasa, China，Technical Director for Evaluation Task
 
 <span class='anchor' id='-gzsx'></span>
-# 💻 Others
+# 📄 Others
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
