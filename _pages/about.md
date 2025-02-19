@@ -57,7 +57,7 @@ My research interest includes machine translation, large language models and low
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">WWW 2025</div><img src="images/www.svg" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-  <p><a href="https://openreview.net/pdf?id=AegCFewVum">M^2^-VLP: Enhancing Multilingual Vision-Language Pre-Training via Multi-Grained Alignment</a> <br>
+  <p><a href="https://openreview.net/pdf?id=AegCFewVum">M<sup>2</sup>sup>-VLP: Enhancing Multilingual Vision-Language Pre-Training via Multi-Grained Alignment</a> <br>
 Ahtamjan Ahmat, Lei Wang, Yating Yang, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Rong Ma, Xinyue Wang</p>
   <ul>
       <li>In this work, we propose a unified multi-grained contrastive learning paradigm.</li>
