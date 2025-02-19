@@ -121,10 +121,10 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Conferences
-- *2025.01.24*, The 31st International Conference on Computational Linguistics, Abu Dhabi, UAE, Oral
-- *2024.11.03*, CCF International Conference on Natural Language Processing and Chinese Computing, Hangzhou, China, Poster
-- *2023.10.19*, The 19th China Conference on Machine Translation, Jinan, China，Technical Director for Evaluation Task
-- *2022.08.06*, The 18th China Conference on Machine Translation, Lhasa, China，Technical Director for Evaluation Task
+- *2025.01.24*, The 31st International Conference on Computational Linguistics, Abu Dhabi, UAE, `Oral`
+- *2024.11.03*, CCF International Conference on Natural Language Processing and Chinese Computing, Hangzhou, China, `Poster`
+- *2023.10.19*, The 19th China Conference on Machine Translation, Jinan, China，`Technical Director for Evaluation Task`
+- *2022.08.06*, The 18th China Conference on Machine Translation, Lhasa, China，`Technical Director for Evaluation Task`
 
 <span class='anchor' id='-gzsx'></span>
 # 📄 Others
