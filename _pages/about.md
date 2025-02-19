@@ -59,9 +59,6 @@ My research interest includes machine translation, large language models and low
 
   <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur</a> <br>
 <strong>Kaiwen Lu</strong>, Yating Yang , Fengyi Yang, Rui Dong, Bo Ma,Ahtamjan Ahmat, Abibilla Atawulla, Lei Wang, Xi Zhou</p>
-<!-- 
-  <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| Citations: 1213</span></strong></p> -->
-
   <ul>
       <li>In this work, we have expanded LLama's support for Uyghur and enhanced its translation capabilities</li>
        <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>.</li>
