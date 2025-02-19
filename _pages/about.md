@@ -28,8 +28,8 @@ My research interest includes machine translation, large language models and low
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2016.09 - 2020.06*,  <a href="https://www.xju.edu.cn/"><img class="jpg" src="/images/XJU.svg" width="15pt"></a> Xinjiang University, Bachelor.
-- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/"><img class="png" src="/images/UCAS.svg" width="23pt"></a> University of Chinese Academy of Sciences, Ph.D. Candidate.
+- *2016.09 - 2020.06*,  <a href="https://www.xju.edu.cn/"><img class="svg" src="/images/XJU.svg" width="15pt"></a> Xinjiang University, Bachelor.
+- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/"><img class="svg" src="/images/UCAS.svg" width="23pt"></a> University of Chinese Academy of Sciences, Ph.D. Candidate.
  
 <span class='anchor' id='-lwzl'></span>
 
