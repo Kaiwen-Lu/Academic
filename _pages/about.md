@@ -19,10 +19,10 @@ redirect_from:
 
 
 I am studying for a doctorate at the University of the Chinese Academy of Sciences. <br/>
-I am currently working on large model low-resource language power enhancement, low-resource language machine translation, and zero-shot learning. If you are seeking any form of academic cooperation, please feel free to email me: lukaiwen20@mails.ucas.ac.cn <br/>
+I am currently working on multilingual large language model training, multilingual machine translation, and zero-shot learning. If you are seeking any form of academic cooperation, please feel free to email me: lukaiwen20@mails.ucas.ac.cn <br/>
 I graduated from Xinjiang University with a bachelor's degree and am currently studying for a PhD at the <a href="https://www.ucas.edu.cn/">University of Chinese Academy of Sciences (中国科学院大学)</a>, advised by <a href="https://people.ucas.edu.cn/~yangyating">Yating Yang (杨雅婷)</a>.<br/>
-My research interest includes machine translation, large language models and low-resource language processing. I have published several papers at the top international AI conferences and periodical such as COLING, NAACL and TALLIP.<br/>
- <a href='https://scholar.google.com/citations?user=pfroRUEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 
+My research interest includes machine translation, large language models and low-resource language processing. I have published several papers at the top international AI conferences and periodical such as WWW, COLING and TALLIP.<br/>
+ <a href='https://scholar.google.com.hk/citations?user=pfroRUEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 
 
 
 <span class='anchor' id='-xl'></span>
@@ -37,7 +37,7 @@ My research interest includes machine translation, large language models and low
 <span class='anchor' id='-xll'></span>
 
 # 🔥 News
-- *2025.01*: 🎉 Our paper has been accepted by 
+- *2025.01*: 🎉 Our paper has been accepted by WWW 2025
 - *2024.12*: 🎉 Our paper has been accepted by COLING 2025
 - *2024.09*: 🎉 Our paper has been accepted by CCMT 2024
 - *2024.08*: 🎉 Our paper has been accepted by NLPCC 2024
@@ -54,18 +54,14 @@ My research interest includes machine translation, large language models and low
 
 
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurIPS 2019</div><img src="images/CONLIG2025.svg" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">COLING 2025</div><img src="images/CONLIG2025.svg" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-  <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">FastSpeech: Fast, Robust and Controllable Text to Speech</a> <br>
-<strong>Yi Ren</strong>, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu</p>
-
-  <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| Citations: 1213</span></strong></p>
-
+  <p><a href="https://aclanthology.org/2025.coling-main.559/">Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur</a> <br>
+<strong>Kaiwen Lu</strong>, Yating Yang , Fengyi Yang, Rui Dong, Bo Ma,Ahtamjan Ahmat, Abibilla Atawulla, Lei Wang, Xi Zhou</p>
   <ul>
-      <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
-      <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" alt=""></a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>、<a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.</li>
-      <li><strong>Industry Impact</strong>: FastSpeech has been deployed in <a href="https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911">Microsoft Azure TTS service</a> and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in <a href="https://resources.nvidia.com/events/GTC2020s21420">NVIDIA GTC2020</a>.</li>
+      <li>In this work, we have expanded LLama's support for Uyghur and enhanced its translation capabilities</li>
+      <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by  <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>. 
     </ul>
   </div>
 </div>
