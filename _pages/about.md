@@ -28,8 +28,8 @@ My research interest includes machine translation, large language models and low
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2016.09 - 2020.06*,  <a href="https://www.xju.edu.cn/"><img class="jpg" src="/images/XJU.jpg" width="15pt"></a> Xinjiang University, Bachelor.
-- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/"><img class="png" src="/images/UCAS.png" width="23pt"></a> University of Chinese Academy of Sciences, Ph.D. Candidate.
+- *2016.09 - 2020.06*,  <a href="https://www.xju.edu.cn/"><img class="jpg" src="/images/XJU.svg" width="15pt"></a> Xinjiang University, Bachelor.
+- *2020.09 - Present*, <a href="https://www.ucas.edu.cn/"><img class="png" src="/images/UCAS.svg" width="23pt"></a> University of Chinese Academy of Sciences, Ph.D. Candidate.
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -54,26 +54,28 @@ My research interest includes machine translation, large language models and low
 
 
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">WWW 2025</div><img src="images/www.svg" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+
+  <p><a href="https://openreview.net/pdf?id=AegCFewVum">M^2^-VLP: Enhancing Multilingual Vision-Language Pre-Training via Multi-Grained Alignment</a> <br>
+Ahtamjan Ahmat, Lei Wang, Yating Yang, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Rong Ma, Xinyue Wang</p>
+  <ul>
+      <li>In this work, we propose a unified multi-grained contrastive learning paradigm.</li>
+       <!-- <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>.</li> -->
+    </ul>
+  </div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">COLING 2025</div><img src="images/CONLIG2025.svg" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-  <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur</a> <br>
+  <p><a href="https://aclanthology.org/2025.coling-main.559/">Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur</a> <br>
 <strong>Kaiwen Lu</strong>, Yating Yang , Fengyi Yang, Rui Dong, Bo Ma,Ahtamjan Ahmat, Abibilla Atawulla, Lei Wang, Xi Zhou</p>
   <ul>
       <li>In this work, we have expanded LLama's support for Uyghur and enhanced its translation capabilities</li>
        <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>.</li>
     </ul>
   </div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
