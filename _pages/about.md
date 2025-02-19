@@ -57,14 +57,14 @@ My research interest includes machine translation, large language models and low
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">COLING 2025</div><img src="images/CONLIG2025.svg" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
 
-  <p><a href="https://aclanthology.org/2025.coling-main.559/">Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur</a> <br>
+  <p><a href="https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">Low-Resource Language Expansion and Translation Capacity Enhancement for LLM: A Study on the Uyghur</a> <br>
 <strong>Kaiwen Lu</strong>, Yating Yang , Fengyi Yang, Rui Dong, Bo Ma,Ahtamjan Ahmat, Abibilla Atawulla, Lei Wang, Xi Zhou</p>
 <!-- 
   <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| Citations: 1213</span></strong></p> -->
 
   <ul>
-      <li>In this work, we have expanded LLama's support for Uyghur and enhanced its translation capabilities</li>
-      <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by  <a href="https://github.com/espnet/espnet">CIPS</a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>、<a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.</li>
+      <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
+      <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" alt=""></a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>、<a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.</li>
       <li><strong>Industry Impact</strong>: FastSpeech has been deployed in <a href="https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911">Microsoft Azure TTS service</a> and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in <a href="https://resources.nvidia.com/events/GTC2020s21420">NVIDIA GTC2020</a>.</li>
     </ul>
   </div>
