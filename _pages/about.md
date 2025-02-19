@@ -62,10 +62,9 @@ My research interest includes machine translation, large language models and low
 <!-- 
   <p><a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> <strong><span class="show_paper_citations" data="4FA6C0AAAAAJ:qjMakFHDy7sC">| Citations: 1213</span></strong></p> -->
 
-  <ul>
-      <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
-      <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet </a>. Our work are promoted by more than 20 media and forums, such as <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a>.</li>
-      <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>.</li>
+  <ul>
+      <li>In this work, we have expanded LLama's support for Uyghur and enhanced its translation capabilities</li>
+       <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>.</li>
     </ul>
   </div>
 </div>
