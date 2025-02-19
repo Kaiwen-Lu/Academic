@@ -61,7 +61,7 @@ My research interest includes machine translation, large language models and low
 <strong>Kaiwen Lu</strong>, Yating Yang , Fengyi Yang, Rui Dong, Bo Ma,Ahtamjan Ahmat, Abibilla Atawulla, Lei Wang, Xi Zhou</p>
   <ul>
       <li>In this work, we have expanded LLama's support for Uyghur and enhanced its translation capabilities</li>
-      <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by  <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>. 
+      <li><strong>Academic Impact</strong>: This work has won excellent posters from CIPS-LMG2024 and was reported by  <a href="https://mp.weixin.qq.com/s/rZ8rcVA4OK5DcbDMnsMANg">CIPS</a>. </li>
     </ul>
   </div>
 </div>
