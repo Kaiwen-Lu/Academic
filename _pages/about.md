@@ -114,9 +114,10 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖`
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2024.11* The 3rd National Large Language Model Intelligent Generation Conference (CIPS-LMG2024) `Excellent Poster`
+- *2024.11* Xinjiang First Postdoctoral Innovation and Entrepreneurship Competition `Silver Award`
+- *2024.05* University of Chinese Academy of Sciences `Merit Student`
+- *2022.07* University of Chinese Academy of Sciences `Merit Student`  
 
 <span class='anchor' id='-xshy'></span>
 
