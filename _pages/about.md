@@ -114,10 +114,12 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-- *2024.11* The 3rd National Large Language Model Intelligent Generation Conference (CIPS-LMG2024) `Excellent Poster`
-- *2024.11* Xinjiang First Postdoctoral Innovation and Entrepreneurship Competition `Silver Award`
+- *2024.11* The 3rd National Large Language Model Intelligent Generation Conference `Excellent Poster`
+- *2024.11* Xinjiang First Postdoctoral Innovation and Entrepreneurship Competition `The Second Prize`
 - *2024.05* University of Chinese Academy of Sciences `Merit Student`
-- *2022.07* University of Chinese Academy of Sciences `Merit Student`  
+- *2022.07* University of Chinese Academy of Sciences `Merit Student`
+- *2017.12* The ACM-ICPC Asia Regional Contest `Volunteer`
+- *2017.05* The 2017 ACM-ICPC China Xinjiang Provincial Programming Contest `The Third Prize`
 
 <span class='anchor' id='-xshy'></span>
 
@@ -129,6 +131,13 @@ Yating Yang , Rui Dong, Bo Ma, Rui Dong, <strong>Kaiwen Lu</strong>, Lei Wang</p
 
 <span class='anchor' id='-gzsx'></span>
 # 📄 Others
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+<h2 id="-speech-synthesis">✍🏻 Review</h2>
+- *2024.11*, International Multilingual Intelligent Information Processing Conference, Reviewer
+- *2024.05*, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, Reviewer
+- *2022.10 - 2024.10*, The 21st, 22st and 23st China National Conference on Computational Linguistics, Reviewer
+<h2 id="-speech-synthesis">🔏 Patent</h2>
+- *2024.10*, 面向低资源语言的大语言模型训练方法、装置、设备及介质
+- *2024.09*, 基于思维链的动态语义检索方法、装置、设备及介质
+- *2022.09*, 基于残差修剪的跨语言机器翻译方法、装置、设备及存储介质
+
+
